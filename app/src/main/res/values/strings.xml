@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="txtName">Dom</string>
+    <string name="textButtonProfile">View Profile</string>
+    <string name="textProfileInformation">My name is Dom. I am 19 years old. It is currently 2024, and I just figured that out.</string>
+
+</resources>
